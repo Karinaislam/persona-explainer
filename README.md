@@ -4,7 +4,7 @@
 
 Ask "How does gravity work?" as **Ayaan, 10, who loves football**, and you get a playful lesson with no formulas and a cartoon video where the football shows gravity. Ask the same question as **Sara, a first-year engineering student**, and you get Newton's law with units, a hoist-sizing calculation and a technical infographic video. Then Meta's own models watch and listen to each video and score it before you trust it.
 
-> Meta Global AI Developer Hackathon · Indie developer track · Theme: *Build for Your World*
+> Meta Global AI Developer Hackathon · Startup track · Theme: *Build for Your World*
 
 ## Why
 
